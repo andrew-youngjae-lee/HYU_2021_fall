@@ -2,7 +2,7 @@
 
 ## <seller.py>
 
-# CLI 명령어 : 기능
+CLI 명령어 : 기능
 
 # 'info' 명령어
 python seller.py info [ID] : seller 정보 검색, password를 제외한 값 표시 
@@ -14,7 +14,7 @@ python seller.py update [ID] [property] [value] : seller 정보 변경
 
 ## <store.py>
 
-# CLI 명령어 : 기능
+CLI 명령어 : 기능
 
 # 'info' 명령어
 python store.py info [ID] : store 정보 검색, 정보 표시
@@ -39,7 +39,7 @@ python store.py search [ID] : 특정 가게의 모든 메뉴를 주문한 사람
 
 ## <customer.py>
 
-# CLI 명령어 : 기능
+CLI 명령어 : 기능
 
 # 'info' 명령어
 python customer.py info [ID] : customer 정보 검색
